@@ -12,9 +12,11 @@ Ingeniero de Sistemas orientado a **análisis de datos** y **soluciones tecnoló
 
 ## Sobre mí
 
-Ingeniero de Sistemas graduado de la **Universidad EAN**. Completé un curso de **Análisis de Datos**, con el que fortalecí mis habilidades en el manejo avanzado de herramientas ofimáticas y de visualización de información.
+Disciplina, responsabilidad y compromiso con el cumplimiento de objetivos definen mi forma de trabajar. Actitud puntual y orientada a resultados, con capacidad de análisis para identificar problemas y proponer soluciones prácticas y eficientes.
 
-Me interesa la resolución de problemas a través de la tecnología, y considero que la **inteligencia artificial** es una herramienta que toda persona debería aprender a implementar en su entorno laboral. Actualmente curso un **diplomado en Arquitectura en la Nube** en la Universidad de La Sabana, y el próximo año iniciaré una **especialización en Machine Learning**, con el objetivo de especializarme en el área de MLOps / ML Engineering.
+Fuertes habilidades de trabajo en equipo y comunicación, con disposición para colaborar en entornos multidisciplinarios y aportar en la consecución de objetivos comunes. Compromiso con el aprendizaje continuo y la actualización tecnológica constante, en particular en las áreas de datos, nube e inteligencia artificial, identificadas como prioritarias para la transformación digital de las organizaciones.
+
+Busco integrarme a equipos y organizaciones donde pueda aportar valor a través del análisis de datos, el desarrollo de soluciones tecnológicas y la aplicación estratégica de herramientas de inteligencia artificial en procesos de negocio.
 
 ---
 
@@ -51,26 +53,9 @@ Me interesa la resolución de problemas a través de la tecnología, y considero
 ## Certificaciones
 
 - Excel Avanzado y Macros
-- Uso de Inteligencia Artificial y Prompt Engineering
+- Uso de Inteligencia Artificial Generativa y Prompt Engineering
 - Análisis de Datos
 - Diplomado en Arquitectura en la Nube — Universidad de La Sabana (en curso)
-
----
-
-## Formación en curso
-
-- Diplomado en Arquitectura en la Nube (en curso).
-- Especialización en Machine Learning (inicio previsto para el próximo año 2027-1).
-
----
-
-## Perfil profesional
-
-Disciplina, responsabilidad y compromiso con el cumplimiento de objetivos definen mi forma de trabajar. Actitud puntual y orientada a resultados, con capacidad de análisis para identificar problemas y proponer soluciones prácticas y eficientes.
-
-Fuertes habilidades de trabajo en equipo y comunicación, con disposición para colaborar en entornos multidisciplinarios y aportar en la consecución de objetivos comunes. Compromiso con el aprendizaje continuo y la actualización tecnológica constante, en particular en las áreas de datos, nube e inteligencia artificial, identificadas como prioritarias para la transformación digital de las organizaciones.
-
-Busco integrarme a equipos y organizaciones donde pueda aportar valor a través del análisis de datos, el desarrollo de soluciones tecnológicas y la aplicación estratégica de herramientas de inteligencia artificial en procesos de negocio.
 
 ---
 
