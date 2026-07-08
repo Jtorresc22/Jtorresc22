@@ -1,16 +1,89 @@
-# Juan Francisco Torres
+# Juan Francisco Torres Carvajal
 
-Ingeniero de Sistemas | Data Analyst | Excel | SQL | Python | Power BI | Cloud Computing | IAG
+Ingeniero de Sistemas | Data Analyst | Full-Stack Development | Excel | SQL | Python | Power BI | Cloud Computing | Inteligencia Artificial Generativa
 
 ---
 
 ## Resumen profesional
 
-Ingeniero de Sistemas orientado a **análisis de datos** y **soluciones tecnológicas**, con experiencia en **gestión y consulta de bases de datos (MySQL, SQL Server)**, **automatización de procesos con Python**, **visualización de datos en Power BI** y **manejo avanzado de Excel** (fórmulas complejas, Power Query, tablas dinámicas, macros). Formación complementaria en **arquitectura en la nube** y aplicación práctica de **inteligencia artificial generativa** mediante prompt engineering. Perfil disciplinado, responsable y orientado a resultados, con enfoque en la resolución de problemas y la generación de valor a través de la tecnología. Candidato en formación continua, con especialización en **Machine Learning** proyectada para el próximo año, orientado a roles de **Data Analyst, Cloud Engineer o MLOps/ML Engineer**.
+Ingeniero de Sistemas orientado al **análisis de datos** y **soluciones tecnológicas**, con experiencia en **gestión y consulta de bases de datos (MySQL, SQL Server)**, **automatización de procesos con Python**, **visualización de datos en Power BI** y **manejo avanzado de Excel** (fórmulas complejas, Power Query, tablas dinámicas, macros). Formación complementaria en **arquitectura en la nube** y aplicación práctica de **inteligencia artificial generativa** mediante prompt engineering. Perfil disciplinado, responsable y orientado a resultados, con enfoque en la resolución de problemas y la generación de valor a través de la tecnología. Candidato en formación continua, con especialización en **Machine Learning** proyectada para el próximo año, orientado a roles de **Data Analyst, Cloud Engineer o MLOps/ML Engineer**.
 
 ---
 
-## Sobre mí
+## Acerca de mí
+
+Egresado de Ingeniería de Sistemas de la Universidad EAN (materias culminadas, ceremonia de grado en noviembre de 2026), con enfoque en análisis de datos y generación de valor a partir de la información. Me caracterizo por ser proactivo, analítico y organizado, con sólida capacidad de aprendizaje continuo, trabajo en equipo y gestión efectiva del tiempo.
+
+---
+
+## Experiencia profesional
+
+**Practicante de Desarrollo de Software**
+Escappy Travel | Enero 2026 – Junio 2026
+
+Participé en el desarrollo de SOF-IA, un sistema de creación de viajes personalizados basado en inteligencia artificial, con proyección de lanzamiento al mercado. Trabajé en un entorno ágil y multidisciplinar, rotando entre las áreas de frontend, backend, inteligencia artificial y datos, lo que me permitió adquirir una visión integral del ciclo de desarrollo de un producto tecnológico real.
+
+- Desarrollo de funcionalidades full-stack (Next.js, Node.js, TypeScript) e integración de APIs externas como Amadeus y Civitatis.
+- Aplicación de principios de arquitectura hexagonal y principios SOLID a lo largo del proceso de desarrollo.
+
+**Auxiliar de Sistemas**
+Fasystems | Proyecto EIS | Noviembre 2025
+
+Apoyé al equipo técnico en la gestión de recursos tecnológicos del proyecto, asegurando la disponibilidad y el correcto estado de los activos asignados. Actué con autonomía en la ejecución de tareas operativas, contribuyendo al cumplimiento de los requerimientos del proyecto en los tiempos establecidos.
+
+- Gestión y registro del inventario de activos tecnológicos del proyecto.
+- Verificación del correcto funcionamiento de los recursos previo a su puesta en operación.
+- Alistamiento y preparación de dispositivos para su uso en campo.
+
+**Mantenimiento Técnico**
+Fasystems | Proyecto RNEC | Abril 2026
+
+Formé parte del equipo técnico responsable del mantenimiento y optimización de la flota nacional de Equipos de Inscripción (EIS), brindando soporte remoto enfocado en garantizar alta disponibilidad y rendimiento operativo.
+
+- Limpieza y configuración de imágenes del sistema, despliegue de parches de actualización (KB), gestión de antivirus y actualización de firmware y drivers de chipset.
+- Implementación de procesos de optimización de almacenamiento mediante depuración de archivos temporales, logrando que el 100% de los equipos cumplieran los estándares técnicos requeridos para la operación continua a nivel nacional.
+- Mantenimiento preventivo, correctivo y despliegue masivo de actualizaciones del sistema operativo, garantizando la estabilidad de los equipos de las registradurías a nivel nacional.
+
+---
+
+## Habilidades técnicas
+
+**Lenguajes de programación:** Python, JavaScript, TypeScript, HTML, SQL.
+
+**Frameworks y desarrollo:** Next.js, Node.js, integración de APIs REST (Amadeus, Civitatis).
+
+**Bases de datos:** PostgreSQL, MySQL, SQL Server.
+
+**Análisis de datos y Business Intelligence:** Excel Avanzado, Power BI, Power Query, Power Pivot, Tablas Dinámicas, Dashboards.
+
+**Herramientas de desarrollo:** GitHub, Visual Studio Code, Postman, Google Colab, Anaconda (Spyder, Anaconda Prompt).
+
+**Librerías de Python:** Pandas, FuzzyWuzzy (fuzz), FPDF, OS.
+
+**Metodologías y buenas prácticas:** Arquitectura hexagonal, principios SOLID.
+
+**Inteligencia Artificial:** Prompt Engineering, integración de soluciones basadas en IA generativa.
+
+**Cloud:** Arquitectura en la Nube (en formación).
+
+---
+
+## Educación
+
+**Ingeniería de Sistemas** — Universidad EAN
+Egresado (materias culminadas) | Ceremonia de grado: Noviembre 2026
+
+**Diplomado en Arquitectura en la Nube** — Universidad de La Sabana (en curso)
+
+**Curso de Análisis de Datos** — IPSDATAX (2026)
+
+**Curso de Inteligencia Artificial Generativa (IAGEN)** — BID (2025)
+
+**Curso de Excel Avanzado y Macros** — Universidad EAN (2022)
+
+---
+
+## Perfil profesional
 
 Disciplina, responsabilidad y compromiso con el cumplimiento de objetivos definen mi forma de trabajar. Actitud puntual y orientada a resultados, con capacidad de análisis para identificar problemas y proponer soluciones prácticas y eficientes.
 
@@ -20,42 +93,10 @@ Busco integrarme a equipos y organizaciones donde pueda aportar valor a través 
 
 ---
 
-## Habilidades técnicas
+## Idiomas
 
-**Data Analysis & Business Intelligence:** Excel Avanzado, Power Query, Tablas Dinámicas (Pivot Tables), Macros, Power BI, Dashboards, Visualización de Datos, Reporting, Toma de Decisiones basada en Datos.
-
-**Bases de Datos:** MySQL, SQL Server, SQL, Consultas Avanzadas, JOINs, Agregaciones, Modelado de Datos, Optimización de Consultas.
-
-**Programación:** Python (Data Cleaning, Automatización de Procesos, Análisis de Datos), JavaScript, HTML, CSS.
-
-**Cloud & Tecnologías Emergentes:** Arquitectura en la Nube (en formación), Inteligencia Artificial Generativa, Prompt Engineering, Machine Learning (formación proyectada).
-
-### Detalle por área
-
-**Análisis de datos y Business Intelligence**
-- Excel avanzado: fórmulas complejas, Power Query, tablas dinámicas (Pivot Tables), macros.
-- Power BI: construcción de dashboards y visualización de datos orientada a la toma de decisiones.
-
-**Bases de datos**
-- MySQL y SQL Server: consultas, uniones de tablas (JOINs), agregaciones y optimización de consultas.
-
-**Lenguajes de programación**
-- Python (lenguaje principal): limpieza de datos, automatización de procesos y análisis de información.
-- JavaScript
-- HTML
-- CSS
-
-**Inteligencia Artificial**
-- Diseño de prompts efectivos para modelos de IA generativa, aplicando una estructura basada en rol, contexto, tarea y restricciones para obtener resultados precisos y consistentes.
-
----
-
-## Certificaciones
-
-- Excel Avanzado y Macros
-- Uso de Inteligencia Artificial Generativa y Prompt Engineering
-- Análisis de Datos
-- Diplomado en Arquitectura en la Nube — Universidad de La Sabana (en curso)
+- Español: Nativo
+- Inglés: Básico
 
 ---
 
