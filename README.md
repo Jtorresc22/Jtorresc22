@@ -1,6 +1,6 @@
 # Juan Francisco Torres Carvajal
 
-Ingeniero de Sistemas | Data Analyst | Full-Stack Development | Excel | SQL | Python | Power BI | Cloud Computing | Inteligencia Artificial Generativa
+Systems Engineer | Data Analyst Junior | Full-Stack Developer | Excel | SQL | Python | Power BI | Cloud Computing | Generative AI
 
 ---
 
