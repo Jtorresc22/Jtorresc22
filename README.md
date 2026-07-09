@@ -54,7 +54,7 @@ Formé parte del equipo técnico responsable del mantenimiento y optimización d
 
 **Bases de datos:** PostgreSQL, MySQL, SQL Server.
 
-**Análisis de datos y Business Intelligence:** Excel Avanzado, Power BI, Power Query, Power Pivot, Tablas Dinámicas, Dashboards.
+**Análisis de datos y Business Intelligence:** Excel Avanzado, Power BI, Power Query, Power Pivot, Fórmulas DAX, Tablas Dinámicas, Dashboards.
 
 **Herramientas de desarrollo:** GitHub, Visual Studio Code, Postman, Google Colab, Anaconda (Spyder, Anaconda Prompt).
 
