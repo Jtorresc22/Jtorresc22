@@ -102,6 +102,7 @@ Busco integrarme a equipos y organizaciones donde pueda aportar valor a través 
 
 ## Contacto
 
-- LinkedIn: [www.linkedin.com/in/jtorrescarvajal](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNhuUVcWsRqOXdOz5WVbF2w%3D%3D)
+- LinkedIn:
+(https://www.linkedin.com/in/jtorrescarvajal/)
 - Correo electrónico: jtorrescarvajal22@gmail.com
 - GitHub: [Jtorresc22](https://github.com/Jtorresc22)
